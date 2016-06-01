@@ -1,2 +1,2 @@
 # gittest
-netbeans connectin attempt
+netbeans connection attempt
